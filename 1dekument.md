@@ -21,4 +21,6 @@ git commit -m "Erstes Markdown File erstellt."
 ``` 
 5. Synchronisieren anklicken um die Dateien auf das **remote-Repository** auf **Github** hochzuladen. der Terminal-Befwhli lautet :
 ```bash 
-git remote add orgin https://github.com/khalil9633/Git git push -orgin mein 
+git remote add orgin https://github.com/khalil9633/Git 
+git push -orgin mein
+``` 
