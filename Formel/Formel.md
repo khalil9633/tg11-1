@@ -28,7 +28,7 @@ kann die n-te wurzel mit angaben werden  `$\sqrt{<n>}{<wert>}$`
 - die 3te wurzel aus 2 $\sqrt[3]{2}$ wird mit mit dem befehl  `2 $\sqrt[3]{2}`
 
 ## Hoch undTiefstellung 
-$e^{j \omega }$ wir erstellt mit `$e^{j \omega }` 
+$e^{j \omega t}$ wir erstellt mit `$e^{j \omega t }` 
 um einen Wert Tiefstellen darzustellen wird `_{<wert>}` 
 
 ## Beispiel tiefgestellt 
