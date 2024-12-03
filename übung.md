@@ -9,5 +9,7 @@ $$\frac{-\sqrt{6}}{\sqrt{5}-\sqrt{6}}$$
 
 $$ -x= \sqrt{(-x)^2} $$ 
 
-\
+## abud ist hässlisch $ ^2 $
+
+ich liebe ammarah $ ^2
 

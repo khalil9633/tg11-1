@@ -17,13 +17,13 @@ Diese Formel wird da gestelt mit
 Brüche werden werden mit ein Befehl `$\frac{<Zahlen>}{<Nenner>}$` erstellt 
 
 ## Beispiel 
-der bruch $\frac{3x}-{x^2-1}$
+der bruch $\frac{3x}{x^2-1}$
 ## wurzel 
 Die Wurzel wird mit dem Befehl $\sqrt{<n>}{<wert>}$ erstelt. als obtimaler parameter kann 
 kann die n-te wurzel mit angaben werden  `$\sqrt{<n>}{<wert>}$` 
 
 ## Beispiel 
-- die wurzel `$\sqrt{<n>}{<2>}$` wird mit $\sqrt{<n>}{<2>}$ 
+- die wurzel `$\sqrt{3}$` wird mit $\sqrt{2}$ 
 
 - die 3te wurzel aus 2 $\sqrt[3]{2}$ wird mit mit dem befehl  `2 $\sqrt[3]{2}`
 
